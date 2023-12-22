@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: ;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+}
+
+img {
+    max-width: 100%;
+}
